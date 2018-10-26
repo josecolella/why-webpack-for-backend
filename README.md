@@ -31,7 +31,7 @@ class: center, middle
 
 - Remove comments, unreachable code, uglify, minify, resulting in faster load and parsing of production build artifact.
 
-- Code Analysis when builing, using tslint. For example: tslint-loader
+- Code Analysis when building, using tslint. For example: tslint-loader
 
 ```ts
 rules: [
